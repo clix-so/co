@@ -1,6 +1,6 @@
 # Co
 
-Go-style goroutine execution API for Bun Workers.
+Go-style coroutine execution API for Bun Workers.
 
 Execute functions in parallel using Bun's native worker threads with a simple, Go-inspired API featuring context-based cancellation and timeout management.
 
